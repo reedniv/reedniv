@@ -1,4 +1,4 @@
-## Hai Hai! , ['reedniv'](https://github.com/reedniv) Here👋
+## Hai Hai! , [reedniv](https://github.com/reedniv) Here👋
 
 <center>
 <img src="https://www.transparentpng.com/thumb/anime-boy/82N8Yf-anime-boy-transparent-image.png" alt="anime boy" width="50%"/>
