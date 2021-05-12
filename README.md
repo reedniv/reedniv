@@ -1,7 +1,7 @@
 ## Hai! , [reedniv](https://github.com/reedniv) Here👋
 
 <center>
-<img src="https://www.transparentpng.com/thumb/anime-boy/UTuEoP-download-anime-boy-png.png" alt="anime boy" width="50%"/>
+<img src="https://www.nicepng.com/png/full/158-1581606_cartoons-and-anime-easy-chibi-anime-boy.png" alt="boy" width="50%"/>
 </center>
 
 ![](https://komarev.com/ghpvc/?username=reedniv&color=red)
