@@ -6,6 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=reedniv&color=red)
 
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/reedniv/badges)
 
 ![reedniv github stats](https://github-readme-stats.vercel.app/api?username=reedniv&show_icons=true&theme=default)
 
