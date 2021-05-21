@@ -8,6 +8,8 @@
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/reedniv/badges)
 
+[![Reedniv's github trophy](https://github-profile-trophy.vercel.app/?username=reedniv&row=1)](https://github.com/reedniv/github-profile-trophy)
+
 ![reedniv github stats](https://github-readme-stats.vercel.app/api?username=reedniv&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reedniv&layout=compact)](https://github.com/reedniv)
