@@ -1,5 +1,13 @@
 ## Hai! , [reedniv](https://github.com/reedniv) Here👋
 
+
+<h3 align="center">
+  Welcome to reedniv's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+
+
 <center>
 <img src="https://www.nicepng.com/png/full/158-1581606_cartoons-and-anime-easy-chibi-anime-boy.png" alt="boy" width="50%"/>
 </center>
