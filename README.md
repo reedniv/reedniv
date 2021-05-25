@@ -1,10 +1,5 @@
-## Hai! , [reedniv](https://github.com/reedniv) Here👋
+## Hai! , [reedniv](https://github.com/reedniv) Here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-
-<h3 align="center">
-  Hai! , <a href="https://github.com/reedniv" title=reedniv" font-size="18">reedniv</a> 
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
 
 
