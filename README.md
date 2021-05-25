@@ -6,8 +6,7 @@
 
 ![Profile view](https://komarev.com/ghpvc/?username=reedniv&color=brightgreen)
 
-[![Reedniv's github trophy](https://github-profile-trophy.vercel.app/?username=reedniv&row=1&theme=darkhub
-&no-bg=false)](https://github.com/reedniv/github-profile-trophy)
+[![Reedniv's github trophy](https://github-profile-trophy.vercel.app/?username=reedniv&row=1&theme=darkhub&no-bg=false)](https://github.com/reedniv/github-profile-trophy)
 
 ![reedniv github stats](https://github-readme-stats.vercel.app/api?username=reedniv&show_icons=true&theme=default)
 
