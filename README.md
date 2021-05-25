@@ -12,4 +12,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reedniv&layout=compact)](https://github.com/reedniv)
 
-[![Reedniv's github streak](https://github-readme-streak-stats.herokuapp.com/?user=reedniv&theme=blue-green)](https://github.com/reedniv/github-readme-streak-stats)
+[![Reedniv's github streak](https://github-readme-streak-stats.herokuapp.com/?user=reedniv&theme=buefy)](https://github.com/reedniv/github-readme-streak-stats)
