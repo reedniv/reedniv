@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-  Hai! , [reedniv](https://github.com/reedniv) here
+  Hai! , <a href="https://github.com/reedniv" title=reedniv">here
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
